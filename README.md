@@ -120,7 +120,7 @@ preview.thedrive.ai/example.com/doc.pdf?w=800&h=600&q=90
 
 - [Try it live](https://preview.thedrive.ai)
 - [API documentation](https://preview.thedrive.ai/docs)
-- [Blog](https://thedrive.ai/blog)
+- [Blog]([https://thedrive.ai/blog](https://thedrive.ai/blog/free-thumbnail-preview-api-for-developers))
 
 ---
 
